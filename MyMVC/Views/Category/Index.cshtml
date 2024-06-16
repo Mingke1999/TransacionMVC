@@ -1,9 +1,59 @@
-﻿<h1>Market Categories</h1>
-<ul>
-    <li>
-        <a href="/category/edit/1">nutrition</a>
-    </li>
-    <li>
-        <a href="/category/edit/2">freshes</a>
-    </li>
-</ul>
+﻿@model List<Category>
+
+@section title{
+    <h1>Market Categories</h1>
+}
+
+@if (Model !=null && Model.Count() > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                    <td>
+                        <a class="btn btn-link" 
+                            asp-controller="category" 
+                            asp-action="edit" 
+                            asp-route-id="@category.Id">
+                            Edit
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-link"
+                           asp-controller="category"
+                           asp-action="delete"
+                           asp-route-categoryid="@category.Id"
+                           onclick="return confirmDelete()">
+                            Delete
+                        </a>
+                    </td>
+                  
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br/>
+    <a 
+        class="btn btn-primary"
+       asp-controller="category"
+       asp-action="add">
+    ADD
+    </a>
+}
+@section Scripts{
+    <script>
+        function confirmDelete(){
+            return confirm("Are you sure to delete this category ?");
+        }
+    </script>
+}

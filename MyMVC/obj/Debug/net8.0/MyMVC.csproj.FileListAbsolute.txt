@@ -26,3 +26,4 @@ E:\.Net\TransacionMVC\MyMVC\obj\Debug\net8.0\ref\MyMVC.dll
 E:\.Net\TransacionMVC\MyMVC\obj\Debug\net8.0\MyMVC.RazorAssemblyInfo.cache
 E:\.Net\TransacionMVC\MyMVC\obj\Debug\net8.0\MyMVC.RazorAssemblyInfo.cs
 E:\.Net\TransacionMVC\MyMVC\bin\Debug\net8.0\MyMVC.staticwebassets.runtime.json
+E:\.Net\TransacionMVC\MyMVC\obj\Debug\net8.0\MyMVC.sourcelink.json
