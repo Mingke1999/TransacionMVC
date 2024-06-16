@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\TransacionMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\mymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\mymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|e:\\.net\\transacionmvc\\mymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3178DF-3108-4549-958A-5AE49FF48375}|MyMVC\\MyMVC.csproj|solutionrelative:mymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyMVC",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\MyMVC.csproj",
+              "RelativeDocumentMoniker": "MyMVC\\MyMVC.csproj",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\MyMVC.csproj",
+              "RelativeToolTip": "MyMVC\\MyMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T06:39:27.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:35:25.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:30:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyMVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MyMVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:22:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVC\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MyMVC\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:10:21.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MyMVC\\appsettings.json",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\appsettings.json",
+              "RelativeToolTip": "MyMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T05:58:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MyMVC\\Program.cs",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Program.cs",
+              "RelativeToolTip": "MyMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:34:05.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyMVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyMVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:10:04.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyMVC\\Models\\Category.cs",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Models\\Category.cs",
+              "RelativeToolTip": "MyMVC\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:20:34.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:04:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.Net\\TransacionMVC\\MyMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.Net\\TransacionMVC\\MyMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:57:21.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
